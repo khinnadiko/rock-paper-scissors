@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(195, 194, 194);
+}
+
+#Restart {
+    margin: 10px;
+}
+
+.move {
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
